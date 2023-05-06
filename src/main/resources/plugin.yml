@@ -1,0 +1,4 @@
+name: DeathTimeout
+version: '1.0'
+main: me.scriptydude.deathtimeout.DeathTimeout
+api-version: 1.19

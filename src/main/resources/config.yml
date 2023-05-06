@@ -1,0 +1,11 @@
+#Death Timeout v1.0 Config
+enabled: true
+
+#Ban time (minutes). -1 to ban permanently
+ban-time: 60
+
+#Ban message that people see when banned.
+ban-message: §cYou died!
+
+#Ban player if only he died from the player?
+ban-if-player: false
